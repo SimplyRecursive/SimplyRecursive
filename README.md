@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimplyRecursive
+- 👋 Hi, I’m Brodie Linard
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming skills
 - 💞️ I’m looking to collaborate on game projects
